@@ -1,4 +1,8 @@
-# README
+# Rails-Test-Application
+
+This application is a test project for testing server deployment of various componants. It is not designed to be clean, complete or well written.
+
+## Rails Readme
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
